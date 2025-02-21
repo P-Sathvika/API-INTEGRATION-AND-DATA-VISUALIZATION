@@ -1,7 +1,7 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 TASK 1 - API INTEGRATION AND DATA VISUALIZATION
 
-*COMPANY*: CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
 NAME: P Sathvika
 
@@ -15,13 +15,22 @@ MENTOR NAME: NEELA SANTHOSH
 
 # DESCRIPTION OF TASK
 API Integration:
+
 OpenWeatherMap API: Used to fetch real-time weather data such as temperature and humidity.
+
 Data Handling:
+
 Python requests Library: Retrieves data from the API in JSON format.
+
 Pandas: Processes and organizes the JSON data into a structured DataFrame for easy analysis.
+
 Data Visualization:
+
 Matplotlib: Creates basic plots and handles the layout of visualizations.
+
 Seaborn: Enhances plots with aesthetically pleasing and informative statistical graphics.
+
 Date Formatting:
+
 Matplotlib Dates (mdates): Manages date and time formatting to ensure clear, non-overlapping x-axis labels.
 
