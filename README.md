@@ -33,4 +33,7 @@ Seaborn: Enhances plots with aesthetically pleasing and informative statistical 
 Date Formatting:
 
 Matplotlib Dates (mdates): Manages date and time formatting to ensure clear, non-overlapping x-axis labels.
+# output of the Task
+![image](https://github.com/user-attachments/assets/f6390cbf-ae1f-48ca-862e-a959534f5114)
+
 
